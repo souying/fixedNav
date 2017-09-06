@@ -1,8 +1,8 @@
-# fixedNav 
+# fixedNav.js
  
-[fixedNav  作者博客](http://www.jiaoyiba.cc/)
+[fixedNav.js  作者博客](http://www.jiaoyiba.cc/)
 
-这是一款超轻量级的 ajvascript 插件(无依赖)。 它可以让原本不是在顶部的导航条，在滚动到它的位置时固定在顶部。
+这是一款超轻量级的 javascript 插件(无依赖)。 它可以让原本不是在顶部的导航条，在滚动到它的位置时固定在顶部。
 
 
 
